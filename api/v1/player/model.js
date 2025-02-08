@@ -1,6 +1,5 @@
 const players = [
   { id: 1, nama: "Cristiano Ronaldo", posisi: "Penyerang", klub_id: 1, usia: 39 },
-  { id: 2, nama: "Lionel Messi", posisi: "Penyerang", klub_id: 9, usia: 37 },
   { id: 3, nama: "Kevin De Bruyne", posisi: "Gelandang", klub_id: 4, usia: 32 },
   { id: 4, nama: "Bruno Fernandes", posisi: "Gelandang", klub_id: 3, usia: 29 },
   { id: 5, nama: "Robert Lewandowski", posisi: "Penyerang", klub_id: 2, usia: 35 },
