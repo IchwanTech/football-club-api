@@ -43,7 +43,7 @@ football-club-api/
 │   │   ├── header.ejs
 ```
 
-## 🔧 Cara Menjalankan
+## Cara Menjalankan
 1. **Clone Repository:**
    ```sh
    git clone https://github.com/username/football-club-api.git
