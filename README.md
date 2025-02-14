@@ -1,18 +1,18 @@
 # Football Club API
 
-## 📌 Deskripsi
+## Deskripsi
 Football Club API adalah proyek berbasis **Express.js** dengan arsitektur **MVC** yang mensimulasikan data klub dan pemain sepak bola menggunakan array sebagai database sementara. Proyek ini bertujuan untuk memahami bagaimana data yang berelasi dapat diatur dan diakses dalam aplikasi berbasis **Node.js**.
 
-## 🚀 Fitur
+## Fitur
 - Menampilkan daftar klub sepak bola
 - Menampilkan daftar pemain sepak bola
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Node.js** (Runtime JavaScript)
 - **Express.js** (Framework Backend)
 - **MVC Architecture** (Model-View-Controller)
 
-## 📂 Struktur Folder
+## Struktur Folder
 ```
 football-club-api/
 │   README.md
@@ -31,7 +31,7 @@ football-club-api/
 │   │   ├── router.js
 │
 ├── public/
-│
+│  
 ├── views/
 │   ├── club/
 │   │   ├── index.ejs
@@ -61,7 +61,7 @@ football-club-api/
    - `http://localhost:3000/club/` → Menampilkan daftar klub
    - `http://localhost:3000/player/` → Menampilkan daftar pemain
 
-## 📄 Lisensi
+## Lisensi
 Proyek ini dibuat untuk tujuan edukasi dan open-source di bawah lisensi **MIT**.
 
 ---
